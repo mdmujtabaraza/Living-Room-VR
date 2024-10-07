@@ -2,6 +2,18 @@
 
 This project was created as part of a VR Specialization course on Coursera.
 
+# Project Description
+
+This project is a virtual reality experience of a cozy living room, designed for Google Cardboard. Users can explore a detailed 3D environment featuring a spacious living area with sofas, a round coffee table with a vase, point lights in form of lamps and spotlights in form of wall lights. There is also an 4K TV with audio. The scene aims to provide an immersive and realistic home interior experience.
+
+# Instructions
+
+There is a Living-Room-VR.apk, to experience project in your Android device. To view the project in Unity, open the "MainScene" in Project Assets/Scenes. This is the main scene where students should experience the VR environment. Simply look around using the Google Cardboard viewer to explore the room.
+
+# Hardware Restrictions
+
+This project is designed for Android devices running Android 11 or later. It has been tested on Android 14, but should work on Android 11+ devices. A Google Cardboard viewer or compatible VR headset is required. The project uses Unity version 2022.3.49f1 with Google's Cardboard XR Plugin for Unity. While it should work on most modern Android smartphones, performance may vary depending on the device's capabilities.
+
 ## Important Notice
 
 This project is my original work, submitted for a Coursera assignment. It is shared here for portfolio purposes only.
