@@ -1,6 +1,6 @@
 # Living Room VR
 
-This project was created as part of a VR Specialization course on Coursera.
+This project was created as part of a Coursera's [Virtual Reality Specialization](https://www.coursera.org/specializations/virtual-reality) by University of London.
 
 # Project Description
 
@@ -8,11 +8,11 @@ This project is a virtual reality experience of a cozy living room, designed for
 
 # Instructions
 
-There is a Living-Room-VR.apk, to experience project in your Android device. To view the project in Unity, open the "MainScene" in Project Assets/Scenes. This is the main scene where students should experience the VR environment. Simply look around using the Google Cardboard viewer to explore the room.
+Here is the [android app](https://github.com/mdmujtabaraza/Living-Room-VR/releases/tag/v1.0.0), to experience project in your Android device. To view the project in Unity, open the "MainScene" in Project Assets/Scenes. This is the main scene where students should experience the VR environment. Simply look around using the Google Cardboard viewer to explore the room.
 
 # Hardware Restrictions
 
-This project is designed for Android devices running Android 11 or later. It has been tested on Android 14, but should work on Android 11+ devices. A Google Cardboard viewer or compatible VR headset is required. The project uses Unity version 2022.3.49f1 with Google's Cardboard XR Plugin for Unity. While it should work on most modern Android smartphones, performance may vary depending on the device's capabilities.
+This project is designed for Android devices running Android 11 or later. It has been tested on Android 14, but should work on Android 11+ devices. A Google Cardboard viewer or compatible VR headset is required. The project uses Unity version 2022.3.49f1 with [Google's Cardboard XR Plugin for Unity](https://developers.google.com/cardboard). While it should work on most modern Android smartphones, performance may vary depending on the device's capabilities.
 
 ## Important Notice
 
