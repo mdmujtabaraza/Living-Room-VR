@@ -1,0 +1,4 @@
+Copyright Md Mujtaba Raza 2024
+
+All rights reserved. This project is not open for use, modification, or distribution.
+This work was created for educational purposes as part of a Coursera course assignment.
