@@ -12,7 +12,7 @@ To view the project in Unity, open the "MainScene" in Project Assets/Scenes. Thi
 
 The room features three teleport anchors for easy navigation. To teleport:
 
-* **In the XR Device Simulator within Unity:** Hold the Space key and press W in play mode.
+* **In the XR Device Simulator within Unity in Play Mode:** Hold Space and W keys, point your mouse to one of the anchors and then press Space key again.
 * **On a physical VR controller after building:** Press up on the right thumbstick of your right controller.
 
 # Hardware Restrictions
