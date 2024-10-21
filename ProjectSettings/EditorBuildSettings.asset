@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: caf729b9cdf3f294a8a541c4ec19dda9
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a5014eafac935ac46a8ac899ee67a513,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 99842ebe33c40e0488fed937ad344989,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e7295d903d2ee94e8a625cce20ea5c8,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 924f37769c63c5d4db834f09dd9c9fca,
       type: 2}
